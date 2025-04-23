@@ -1,0 +1,36 @@
+export const HeaderLocators = {
+    Logo: '.logo',
+    CategoryButton: '.header__menu',
+    SellOnUbird: '.header__sell-on-ubird',
+    currency: '.modal__current',
+    language: '.language__modal',
+    CategoryDrawer: '.nav__content',
+    CategoryDrawerX: '.nav__close',
+    AllPageCategoryDrawer: '.nav__overlay',
+    CurrencyDropDown: '.modal__tooltip',
+    LanguageDropDown: '.modal__tooltip'
+}
+export const HeaderValue = {
+    CurrencyAMD: 'AMD Armenian Dram',
+    CurrencyRUB: 'RUB Russian Ruble',
+    CurrencyJPY: 'JPY Japanese Yen',
+    CurrencyEUR: 'EUR Euro',
+    CurrencyAED: 'AED Emirati Dirham',
+    CurrencyKRW: 'KRW Korean Won',
+    CurrencyCNY: 'CNY Chinese Yuan',
+    CurrencyUSD: 'USD US Dollar',
+    AMDCode: 'AMD',
+    RUBCode: 'RUB',
+    JPYCode: 'JPY',
+    EURCode: 'EUR',
+    AEDCode: 'AED',
+    KRWCode: 'KRW',
+    CNYCode: 'CNY',
+    USDCode: 'USD',
+    Arabic: 'العربية',
+    English: 'English',
+    Armenian: 'Հայերեն',
+    Russian: 'Русский',
+    Chinese: '简体中文',
+
+}
